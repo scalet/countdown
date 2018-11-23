@@ -1,5 +1,5 @@
 Countdown Timer
-This countdown is based on my friends idea Alexandre Almeida when I used to work at Directcall, after that I've made one for me but I wanted to change this one.
+This countdown is based on my friends idea Alexandre Almeida when I used to work at Directcall, after that I've made one for me but I want to change to this one.
 
 First of all, you need to enter with the name of the countdown. After that you enter with the end Hour. That will be your countdown changing gifs behind.
 If you want to change the name and hour of your countdown, you just need to click on refresh button at the right bottom of the page.
