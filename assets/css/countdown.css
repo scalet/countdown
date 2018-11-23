@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #000000 url(https://i.giphy.com/media/JIX9t2j0ZTN9S/200w_d.gif) no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+#tempo {
+    font-size: 15vw;
+    text-align: center;
+    text-shadow: 1px 5px 7px #333;
+    opacity: 0.7;
+}
+
+#foot {
+    position: fixed;
+    bottom: 5px;
+    text-align: right;
+}
+
+#foot a, #foot a:link, #foot a:visited, #foot a:hover {
+    text-shadow: 1px 1px 2px #000;
+    opacity: 0.7;
+    color: white;
+}
+
+#foot a:hover {
+    opacity: 0.4;
+}
+#reload{
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+}
+#text {
+    font-size: 8em;
+    text-align: center;
+}
